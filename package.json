@@ -1,0 +1,21 @@
+{
+  "name": "05-express-parte1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "config": "^3.3.12",
+    "debug": "^4.4.1",
+    "express": "^5.1.0",
+    "git": "^0.1.5",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.10"
+  }
+}

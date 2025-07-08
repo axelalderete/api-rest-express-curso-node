@@ -1,3 +1,6 @@
 {
-    "nombre" : "Api Rest Express"
+    "nombre" : "Api Rest Express",
+    "configDB": {
+    "host": "localhost"
+    }
 }
